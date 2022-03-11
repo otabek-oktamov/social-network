@@ -7,13 +7,13 @@ function RightBar({ profile }) {
     return (
       <>
         <div className="birthdayContainer">
-          <img alt="img" src="/assets/gift.png" className="birthdayImg" />
+          <img alt="img1" src="/assets/gift.png" className="birthdayImg" />
           <span className="birthdayText">
             {" "}
             <b>Khanzo</b> and 3 <b>other freinds</b> have birthday today
           </span>
         </div>
-        <img className="rightbarAd" src="/assets/ad.png" />
+        <img alt="img" className="rightbarAd" src="/assets/ad.png" />
         <h4 className="rightbarTitle">Online Freinds</h4>
         <ul className="rightbarFriendList">
           {Users.map((u) => (
