@@ -55,7 +55,7 @@ function RightBar({ profile }) {
           <div className="rightbarFollowing">
             <img
               src="/assets/person/3.jpeg"
-              alt=""
+              alt="img"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Dogay Sakarya</span>
@@ -63,7 +63,7 @@ function RightBar({ profile }) {
           <div className="rightbarFollowing">
             <img
               src="/assets/person/4.jpeg"
-              alt=""
+              alt="img"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Dogay Sakarya</span>
@@ -71,7 +71,7 @@ function RightBar({ profile }) {
           <div className="rightbarFollowing">
             <img
               src="/assets/person/5.jpeg"
-              alt=""
+              alt="img"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Dogay Sakarya</span>
@@ -79,7 +79,7 @@ function RightBar({ profile }) {
           <div className="rightbarFollowing">
             <img
               src="/assets/person/6.jpeg"
-              alt=""
+              alt="img"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Dogay Sakarya</span>
@@ -87,7 +87,7 @@ function RightBar({ profile }) {
           <div className="rightbarFollowing">
             <img
               src="/assets/person/7.jpeg"
-              alt=""
+              alt="img"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Dogay Sakarya</span>
